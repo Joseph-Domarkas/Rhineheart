@@ -78,7 +78,11 @@ Rhineheart__method__kernel
 	print
 	
 	(
-		"1024 MB ram.",
+		"1024 MB ram."
+		"                                                                       1 user.    "
+		"                                                                     1024 MB   "
+		"                                                                     bandwidth."
+		"",
 		13 * 80*2 - 14*2, 0x0f
 	);
 	
